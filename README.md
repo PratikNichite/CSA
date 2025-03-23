@@ -1,4 +1,4 @@
-### Comparing Weather Temperature Variability for Agricultural Investment Decisions
+### Climate Stability Analysis for Agricultural Investment Decisions
 
 **context:** An agricultural investment firm is in the process of deciding on a location for a new farming project. Understanding that **consistent** and predictable weather conditions are vital for successful agriculture, the firm aims to evaluate and compare two potential cities based on their temperature stability. The key factor in this decision-making process is the variability in average daily temperatures, as it directly impacts crop growth and agricultural planning.
 
